@@ -9,7 +9,8 @@ on:
         required: true
         options: 
         - cschleiden
-        value: monalisa
+        - monalisa
+        default: monalisa 
       message:
         required: true
       use-emoji:
