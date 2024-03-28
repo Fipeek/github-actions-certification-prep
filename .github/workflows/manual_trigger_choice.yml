@@ -8,8 +8,8 @@ on:
         description: Who to greet
         required: true
         options: 
-        - cschleiden 
         - monalisa
+        - cschleiden 
       message:
         required: true
       use-emoji:
